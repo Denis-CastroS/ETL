@@ -1,2 +1,4 @@
-# ETL
-Desafio de ETL com Python
+# Projeto ETL com python
+
+Repositório para armazenar códigos do curso de Python Dio
+
